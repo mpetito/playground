@@ -1,0 +1,15 @@
+apis/CustomerApi.ts
+apis/InvoiceApi.ts
+apis/index.ts
+index.ts
+models/CustomersCreateForm.ts
+models/CustomersGetAllModel.ts
+models/CustomersGetAllResult.ts
+models/CustomersGetByIdModel.ts
+models/CustomersGetByIdResult.ts
+models/CustomersUpdateForm.ts
+models/DomainAddress.ts
+models/InvoicesGetAllResult.ts
+models/InvoicesModel.ts
+models/index.ts
+runtime.ts
